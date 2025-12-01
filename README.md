@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>🛠️ <b>Rig</b></td>
-    <td>Zorin OS | Codespaces | Google Colab (TPU/GPU)</td>
+    <td>Zorin OS | Codespaces | Google Colab (TPU/GPU) | VS Code | Kaggle | Google Cloud | Vercel | Render</td>
   </tr>
   <tr>
     <td>🚀 <b>Mission</b></td>
